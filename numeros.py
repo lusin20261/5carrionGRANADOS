@@ -1,0 +1,18 @@
+print("˚₊✧CALCULADORA BIEN PRO˚｡⋆")
+d = input("ingresa el primer numereishon:  ")
+a = input("ingresa el segundo numereishon:  ") 
+n = input("ingresa el tercer numereishon:  ")
+i = input("ingresa el cuarto numereishon:  ")
+d = int(d)
+a = int(a)
+n = int(n)
+i = int(i)
+print("multiplicacion pro a la derecha:  ",n*i)
+print("suma pro a la derecha:  ",d+n)
+print("division pro a la derecha:  ",n/a)
+print("resta pro a la derecha:  ",d-a)
+print("raiz cuadrada a la derecha:  ",d**0.5)
+print("potencia muy sigma a la right:  ",16**2)
+print("˚₊‧꒰ GRACIAS POR VER ꒱‧₊˚")
+
+
