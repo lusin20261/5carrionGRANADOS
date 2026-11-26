@@ -1,0 +1,13 @@
+print("=============================")
+print("୨୧ ꒰ 🍮 ˚CALCULADORA PRO ˚ ꒱")
+print("=============================")
+while True
+    print("")
+    print("¿Que operacion quieres hacer hije?")
+    print("a)suma pro")
+    print("b)resta pro")
+    print("c)multiplicacion pro")
+    print("d)division pro")
+    print("e)raiz pro")
+    print("f)potencia pro") 
+    print("g)salir por nuubcito")
